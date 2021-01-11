@@ -1,0 +1,93 @@
+EDENrm: Setup Manual (SETUP.TXT)
+--------------------------------
+u0r2 by Brendon, 08/20/2018.
+
+Welcome to EDENrm update 6!
+
+
+Installation
+------------
+1.  If you have not done so, download the latest final release of Rainmeter
+    found at [ https://www.rainmeter.net ].
+
+2.  Once downloaded, run the executable file (installer).
+
+3.  There is usually no need to change any option, so just proceed with the
+    installation. You may require administrative permissions.
+
+4.  Once installed, run Rainmeter. New users should be greeted by illustro's
+    welcoming skins.
+
+5.  Now open the RMSKIN file (EDENrm <version>.rmskin) sitting adjacent to this
+    manual. The Rainmeter Skin Installer should appear with its name, author,
+    version and included components.
+
+6.  Tap Install. EDENrm's welcome skin should appear, proceed onwards.
+
+
+Windows XP and Vista users
+--------------------------
+If you are running Rainmeter 3 (3.3.3) on Windows XP or Vista, a fallback
+version of EDENrm update 6 is available. This version removed features that are
+otherwise exclusive to Rainmeter 4.It is recommended not to install either
+Rainmeter 3 and/or any fallback versions of EDENrm into a modern PC.
+
+Rainmeter 3.3.3 can be downloaded via the following link:
+
+[ https://builds.rainmeter.net/Rainmeter-3.3.3.exe ]
+
+The latest fallback version of EDENrm can be downloaded via the GitHub page:
+
+[ https://github.com/BrendonIrwan/edenrm ]
+
+Read on for more information.
+
+
+First off, an announcement from the Rainmeter Community.
+
+Adapted from [ https://www.rainmeter.net/release-4-0 ] as of 08/20/2018
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Important change to supported versions of Microsoft Windows
+------------------------------------------------------------
+
+Due to current and future improvements and additions to functionality, which
+will require the latest version of the Direct2D / DirectWrite graphical engines:
+
+As of Rainmeter 4.0, Windows XP and Windows Vista are no longer supported.
+
+Rainmeter 4.0 requires at least Windows 7 with Service Pack 1 and the Platform
+Update applied. These should have been automatically applied several years ago
+by Windows Update, but if you have Windows Update turned off you may need to get
+and apply these updates manually. Windows versions later than Windows 7 are
+fully supported.
+
+If you are on Windows XP or Windows Vista, and can't or don't wish to upgrade,
+you will need to stay on the 3.3.3 Release version of Rainmeter.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Over three half-years ago, EDENrm update 5 was released, in which I made a
+statement regarding EDENrm ending support for Windows XP and Vista. However, I
+recently decided to postpone the deadline one last time, so that everyone can
+benefit from the huge improvements update 6 had brought over update 5.
+
+That being said, update 6 releases of EDENrm will be the very last to users
+running Rainmeter 3 on Windows XP and Vista--unless I lie again in update 7.
+
+Still, it is really time for all of us to move on from Windows XP (and Vista).
+
+Windows XP is about 17 years of age, running an operating system this old makes
+your computer vulnerable to security issues. Newer version of Windows add
+support for newer functionalities for use in programs such as Rainmeter.
+
+But Windows XP defined my early days of computing, hence why I am still giving
+my support for it. I do have a virtual machine with Windows XP installed mostly
+for nostalgic reasons, and it is where the fallback version was tested.
+
+Rest in peace, Windows XP (2001 - 2014).
+
+
+----------------
+End of SETUP.TXT

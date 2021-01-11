@@ -1,0 +1,59 @@
+WavPlay: Start Guide (WAVPLAY.TXT)
+----------------------------------
+u0r0 by Brendon, 08/20/2018.
+
+
+Description
+-----------
+Formerly known as WavPlayer, it is a Rainmeter skin, or an EDENrm application
+that plays PCM audio files. These are usually denoted by the ".wav" file
+extension, hence commonly known as "wave files".
+
+
+Getting Started
+===============
+
+    Consider the files you want WavPlay to play.
+    --------------------------------------------
+
+Hover over the "[ Directory ]" button, a tool tip should appear showing a
+directory path. By default, it is designated to your desktop, so make sure that
+your files are there.
+
+
+    Consider the sequence you want WavPlay to follow.
+    -------------------------------------------------
+
+Rename your files into ascending numbers, starting from "1.wav", the first song
+in your sequence. For example, a sequence of twenty songs should have files
+"1.wav", "2.wav", ..., and "20.wav".
+
+As a side note, you may do the renaming prior to moving the files into the
+destination folder.
+
+
+    Consider the behaviour you want WavPlay to have.
+    ------------------------------------------------
+
+Unlike most--if not all--music players, WavPlay plays only one file before
+requiring your action, even if you have prepared a sequence of (for example)
+twenty files you want it to play continuously. This is the standard behaviour
+under Rainmeter's sound playback limitations.
+
+This highlights the usefulness of WavPlay's Automatic Playback Control feature,
+which can be engaged by tapping on the "[ AutoPlay ]" button. With this, WavPlay
+will detect for silence before performing the next appropriate action on its
+own. Ensure that the number of tracks shown in the "[ Tracks = ** ]" button
+matches your sequence so that it knows when to stop.
+
+
+This concludes the end of the start guide. The rest of WavPlay should be able to
+help you with their tool tips, they include:
+
+- Playing a custom file
+- Setting a custom directory
+- Adjusting silence detection parameters (usually not needed)
+
+
+------------------
+End of WAVPLAY.TXT

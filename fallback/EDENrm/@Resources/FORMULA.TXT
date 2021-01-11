@@ -1,0 +1,108 @@
+Adapted from https://docs.rainmeter.net/manual/formulas/ as of 08/20/2018
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+FORMULA SYNTAX
+==============
+
+    Operators
+    ---------
+    +   Addition
+    -   Subtraction
+    *   Multiplication
+    /   Division
+
+    **  Power
+    %   Remainder or modulus
+
+    &   Bitwise and
+    |   Bitwise or
+    ^   Bitwise xor
+    ~   Bitwise not
+
+
+    Logical Operators
+    -----------------
+    <>  Not equal
+    =   Equal to
+
+    >   Greater than
+    <   Less than
+
+    <=  Less than or equal to
+    >=  Greater than or equal to
+
+    &&  Logical and
+    ||  Logical or
+
+    Note: Conditional statements using logical operators evaluate to 1 or 0
+          (true / false).
+
+
+    Functions
+    ---------
+    Cos(x)          The cosine  of an angle of x radians.
+    Sin(x)          The sine    of an angle of x radians.
+    Tan(x)          The tangent of an angle of x radians.
+
+    Acos(x)         The principal arc cosine  of x, in the interval
+                    [0,PI]        radians. The value of x is between -1 and 1.
+
+    Asin(x)         The principal arc sine    of x, in the interval
+                    [-PI/2,+PI/2] radians. The value of x is between -1 and 1.
+
+    Atan(x)         The principal arc tangent of x, in the interval
+                    [-PI/2,+PI/2] radians.
+
+    Atan2(y, x)     The principal arc tangent in the interval [-PI,+PI] radians
+                    between points y and x in the Cartesian plane. The sign of
+                    the elements determines the quadrant.
+
+    Rad(x)          Converts x degrees to radians.
+    Deg(x)          Converts x radians to degrees.
+
+    Abs(x)          Absolute value of x.
+    Neg(x)          Negative value of x.
+
+    Exp(x)          Returns e**x.
+    Log(x)          Base 10 logarithm of x.
+    Ln(x)           Natural logarithm of x.
+    Sqrt(x)         Square root of x.
+
+    Sgn(x)          Return 1 if x is positive, -1 if x is negative, or 0 if x is
+                    zero.
+    Frac(x)         Fractional, or decimal, part of x.
+                    (e.g. frac(1.234) = 0.234)
+    Trunc(x)        Integer part of x. (e.g. trunc(1.234) = 1)
+    Floor(x)        Floor of x.
+    Ceil(x)         Ceiling of x.
+
+    Min(x, y)       Minimum of x and y.
+    Max(x, y)       Maximum of x and y.
+
+    Clamp(x, low, high)     Restricts value x to low and high limits.
+    Round(x, precision)     Rounds x to an integer, or to a specified number of
+                            decimal places. precision is optional.
+
+
+    Constants
+    ---------
+    PI  Mathematical constant Pi (~3.14159265...).
+    E   Mathematical constant e  (~2.71828182...).
+
+
+    Conditional Operations
+    ----------------------
+    <condition> ? <expr. if true.> : <expr. if false.>
+
+    This will evaluate condition as being either true or false.
+    If it is true, the expression to the left of the colon (:) is evaluated.
+    If it is false, the expression to the right is evaluated.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[!] Some functions are available only on Rainmeter 4 or later.
+
+
+------------------
+End of FORMULA.TXT
